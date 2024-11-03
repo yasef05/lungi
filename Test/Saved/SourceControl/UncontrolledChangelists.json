@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"G:/UE Projects/Test/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"G:/UE Projects/Test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"G:/UE Projects/Test/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"G:/UE Projects/Test/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"G:/UE Projects/Test/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"G:/UE Projects/Test/Content/Characters/Mannequins/Meshes/Character_with_Lungi.uasset",
+				"G:/UE Projects/Test/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.uasset",
+				"G:/UE Projects/Test/Content/Characters/Mannequins/Meshes/MI_Manny_02_001.uasset",
+				"G:/UE Projects/Test/Content/Characters/Mannequins/Meshes/MI_Manny_01_001.uasset",
+				"G:/UE Projects/Test/Content/Characters/Mannequins/Meshes/Character_with_Lungi_PhysicsAsset.uasset",
+				"G:/UE Projects/Test/Content/Characters/Mannequins/Meshes/Lungi.uasset",
+				"G:/UE Projects/Test/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset",
+				"G:/UE Projects/Test/Content/StarterContent/Materials/M_Concrete_Grime.uasset",
+				"G:/UE Projects/Test/Content/StarterContent/Materials/M_Wood_Walnut.uasset",
+				"G:/UE Projects/Test/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+			]
+		}
+	]
+}
